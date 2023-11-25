@@ -2,20 +2,19 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Malware Analysis Home Lab</b>
-  -(https://github.com/mchowdhury2010/MalwareAnalysis)
-- <b>Vulnerability Scans</b>
-  -(https://github.com/joshmadakor1/VulnerabilityScans)<b>
+-   [Malware Analysis Home Lab](https://github.com/mchowdhury2010/MalwareAnalysis)
+-   [Vulnerability Scans](https://github.com/joshmadakor1/VulnerabilityScans)<b>
   
 <h2>Certifications:</h2>
-- [CompTIA Security+] (https://www.credly.com/badges/d262cd29-5d02-44c5-bac7-a06bda245c9b)<br>
-- [IBM Cybersecurity Analyst Professional Certificate ] (https://imgur.com/a/AKDhl2N)<br/>
-- [Google Cybersecurity Professional Certificate ] (https://imgur.com/a/DRYeGMo)<br>
-- [(ISC) ² Certified in Cybersecurity Specialization ] (https://imgur.com/a/Q6Ji2Pe)<br/>
+
+- [CompTIA Security+](https://www.credly.com/badges/d262cd29-5d02-44c5-bac7-a06bda245c9b)<br>
+- [IBM Cybersecurity Analyst Professional Certificate ](https://imgur.com/a/AKDhl2N)<br/>
+- [Google Cybersecurity Professional Certificate ](https://imgur.com/a/DRYeGMo)<br>
+- [(ISC) ² Certified in Cybersecurity Specialization ](https://imgur.com/a/Q6Ji2Pe)<br/>
 - [Infosec Cyber Threat Hunting ]<br>
-- [Qualys Vulnerability Management Detection and Response ] (https://imgur.com/a/tmeVHHm)<br/>
-- [Palo Alto Networks Cybersecurity Professional Certificate ] (https://imgur.com/a/JFRpTJ1)<br>
-- [Microsoft Cybersecurity Analyst Professional Certificate ] (https://imgur.com/a/5WOc8WH)<br/>
+- [Qualys Vulnerability Management Detection and Response ](https://imgur.com/a/tmeVHHm)<br/>
+- [Palo Alto Networks Cybersecurity Professional Certificate ](https://imgur.com/a/JFRpTJ1)<br>
+- [Microsoft Cybersecurity Analyst Professional Certificate ](https://imgur.com/a/5WOc8WH)<br/>
 
 <h2> 🤳 Connect with me:</h2>
 
