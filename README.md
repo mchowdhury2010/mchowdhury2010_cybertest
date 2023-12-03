@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 -   [Malware Analysis Home Lab](https://github.com/mchowdhury2010/Active-Directory-Home-Lab/tree/main)
--   [Vulnerability Scans Home Lab](https://github.com/joshmadakor1/VulnerabilityScans)<b>
+-   [Vulnerability Scans Home Lab](https://github.com/mchowdhury2010/Vulnerability-Scans-Home-Lab/tree/main)<b>
 -   [Active Directory Home Lab](https://github.com/mchowdhury2010/Active-Directory-Home-Lab/tree/main)
 
 <h2>Certifications:</h2>
