@@ -5,7 +5,8 @@
 -   [Malware Analysis Home Lab](https://github.com/mchowdhury2010/Malware-Analysis-Home-Lab/tree/main)
 -   [Vulnerability Scans Home Lab](https://github.com/mchowdhury2010/Vulnerability-Scans-Home-Lab/tree/main)<b>
 -   [Active Directory Home Lab](https://github.com/mchowdhury2010/Active-Directory-Home-Lab/tree/main)
-
+-   [SOC Automation Home Lab](https://github.com/mchowdhury2010/Active-Directory-Home-Lab/tree/main)
+  
 <h2>Certifications:</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/d262cd29-5d02-44c5-bac7-a06bda245c9b)<br>
